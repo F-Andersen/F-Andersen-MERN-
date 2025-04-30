@@ -1,2 +1,2 @@
-# F-Andersen-MERN-
-Automation of software
+# mern
+mern
